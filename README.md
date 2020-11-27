@@ -5,4 +5,7 @@
 - If you miss the pattern game will be over
 - To play the game again press any key on keyboard to restart the game
 - Have Fun😃
+
+# Webiste Link
+https://bhanureddy2105.github.io/Simon-Game/
          
