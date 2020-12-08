@@ -6,6 +6,6 @@
 - To play the game again press any key on keyboard to restart the game
 - Have Fun😃
 
-# Webiste Link
+# Website Link
 https://bhanureddy2105.github.io/Simon-Game/
          
