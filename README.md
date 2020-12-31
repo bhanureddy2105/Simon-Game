@@ -8,4 +8,8 @@
 
 # Website Link
 https://bhanureddy2105.github.io/Simon-Game/
-         
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/60293758/103419876-e43aef80-4bba-11eb-9186-824359436880.png)
+![image](https://user-images.githubusercontent.com/60293758/103419949-3bd95b00-4bbb-11eb-9d70-4abf5b2dabca.png)
+![image](https://user-images.githubusercontent.com/60293758/103420004-662b1880-4bbb-11eb-865d-9dbd3d18ad9f.png)
